@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavy-air-sweet-scent/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Heavy Air Sweet Scent](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-air-sweet-scent/) |
+| **Get License** | [Get License For Heavy Air Sweet Scent](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-air-sweet-scent/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `54410fc7174bfb41d2209f726f3a95a1198fa5b30ff2c034c7c65d06b28670f1` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
