@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heavy-air-sweet-scent/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Heavy Air Sweet Scent](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-air-sweet-scent/) |
+| **Get License** | [License this song: Heavy Air Sweet Scent](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heavy-air-sweet-scent/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Feel the heavy air when you pull me close
+> Sweet scent lingering like a perfect ghost
+> I'm breathing in the warmth of your skin tonight
+> We're wrapped up in the glow of the amber light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
